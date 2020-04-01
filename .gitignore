@@ -1,0 +1,7 @@
+proj_keil/keil_output
+proj_keil/*.map
+proj_keil/*.uvgui.*
+proj_keil/*.uvopt
+proj_keil/*.dep
+proj_keil/*.lst
+proj_keil/*.bak
